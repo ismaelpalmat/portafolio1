@@ -32,6 +32,19 @@ body{
     
   }
 
+  .font4{
+    padding-top: 20px;
+    color: rgb(85, 85, 85);
+    font-family: "Albert Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    font-size: small;
+    
+  }
+
+
+
   .imgindex{
     margin-top:140px;
     width: 500px;
