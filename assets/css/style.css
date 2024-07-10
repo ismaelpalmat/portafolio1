@@ -60,7 +60,7 @@ body{
     margin-right: auto;
   }
 
-  a{
+  a {
     text-decoration:none;
   }
 
@@ -68,6 +68,10 @@ body{
     text-decoration:none;
     padding-right: 80px;
     padding-left: 80px;
+  }
+
+  #textos a{
+    text-decoration:none;
   }
 
   /* .list-unstyled{
