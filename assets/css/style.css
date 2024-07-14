@@ -63,6 +63,7 @@ body{
   }
 
   #years a{
+    text-align: center;
     text-decoration:none;
     padding-right: 80px;
     padding-left: 80px;
