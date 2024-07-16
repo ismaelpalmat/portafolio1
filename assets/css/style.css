@@ -80,8 +80,8 @@ body{
   #carousel1{
     margin-top: 65px;
     margin-bottom: 40px;
-    height: 700px;
-    width: 900px;
+    height: auto;
+    width: auto;
   }
 
 
